@@ -1,0 +1,22 @@
+/* @theme marpit-theme */
+
+section {
+  width: 1280px;
+  height: 960px;
+  font-size: 40px;
+  padding: 40px;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  font-size: 60px;
+  color: #0071BA;
+  background-color: #FFFFFF ;
+  height: 100px;
+  width: 100%;
+}
+
+h2 {
+  font-size: 50px;
+}
